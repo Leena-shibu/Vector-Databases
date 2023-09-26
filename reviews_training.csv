@@ -1,0 +1,135 @@
+Timestamp,jobbetter,coursematerial,instructorengaging,instructorknowledge,recommend,feedback ,CourseName,Instructor,Region ,CustomerName,Year
+2022-04-11,4,4,5,5,5,,Dev,Jonovan An,EMEA,Sunrun,FY23
+2022-04-11,5,5,5,5,5,,Dev,Jonovan An,EMEA,Sunrun,FY23
+2022-04-11,5,5,5,5,5,"Outstanding course, even for someone with no previous SingleStore experience!!!",Dev,Jonovan An,EMEA,Sunrun,FY23
+2022-03-12,5,5,5,5,5,,Dev,,EMEA,Open Registration,FY23
+2022-03-12,4,5,5,5,5,,Dev,,EMEA,Open Registration,FY23
+2022-03-12,5,5,5,5,5,,Dev,,EMEA,Open Registration,FY23
+2022-03-12,5,5,5,5,5,More time to do and understand the exercises,Dev,,EMEA,Open Registration,FY23
+2022-03-12,5,5,5,5,5,,Dev,,EMEA,Open Registration,FY23
+2022-03-12,5,5,5,5,5,,Dev,,EMEA,Open Registration,FY23
+2022-11-19,3,4,4,3,3,,Admin,Jonovan An,EMEA,Apple,FY23
+2022-11-19,3,4,4,4,4,topics related to sources pools / performance / pipelines would make this Adkins training more fruitful. Donavan is great though.,Admin,Jonovan An,EMEA,Apple,FY23
+2022-11-19,5,5,5,4,5,"I would request to gather real time problems from the customers and include them during course,  The real time problems would get from Singlestore support. The singlestore support team is the first front guys who knows or get weird questions from customers, Weird requirements from customers and understand and include them as one session in course content.  That way you can take few problems and explain solutions. Ex: i want to do switchover between Primary and Disaster recovery without rebuilding the database(i don't want to do drop database and execute replicate database), The singlestore handles terabyte data, The setting replicate database command may take more time, if any disaster occurs during execution of replicate command.., Think the situation without DR when real Disaster in place.. Thank you very much for the course and explanations. ",Admin,Jonovan An,EMEA,Apple,FY23
+2022-07-20,5,5,5,5,5,,Dev,Jonovan An,EMEA,Impact,FY23
+2022-07-21,5,4,5,4,4,,Dev,Jonovan An,EMEA,Impact,FY23
+2022-07-21,4,4,5,5,4,,Dev,Jonovan An,EMEA,Impact,FY23
+2022-07-21,5,5,5,5,5,"There wasn't a lot of time for labs, might be better to do live demos instead of having 5 minutes to copy the sql and paste it. It is still nice having the option to play around with the cluster though.",Dev,Jonovan An,EMEA,Impact,FY23
+2022-07-21,5,4,5,4,5,"Too many of the ""knowledge check"" questions focused on tricky little wordings... would be better to focus on the actual content of the training, and not focus on tricky wordings, etc. 
+
+For me personally, Day 2 was the highlight. Day 1 was a little abstract. Not sure if you could intermingle those contents a bit more so there was more hands-on in Day 1.",Dev,Jonovan An,EMEA,Impact,FY23
+2022-07-21,5,5,5,5,5,"Learning about the structure of SingleStore's data (how it's stored, rowstore vs columnstore, memory vs disk vs object store, shard keys, etc.) was SUPER beneficial. Also the bits about visual profiling was very helpful and will aid in our own self diagnostic of bad queries/schemas.
+
+There was a lot of slides on the topics of JSON and geospatial data. Though interesting and helpful, these features will likely not be used too extensively in our organization. But I suppose, now that we know about them we can potentially use them for future features :)",Dev,Jonovan An,EMEA,Impact,FY23
+2022-07-21,4,4,5,4,5,"We should probably have more TUNING / cluster performance overall, how to identify problematic queries / pipelines.  We did one sql tuning exercise but probably could have 3 days of this.  ",Dev,Jonovan An,EMEA,Impact,FY23
+2022-07-21,5,5,5,5,5,,Dev,Jonovan An,EMEA,Impact,FY23
+2022-07-21,5,4,4,4,5,,Dev,Jonovan An,EMEA,Impact,FY23
+2022-07-21,5,5,5,4,5,,Dev,Jonovan An,EMEA,Impact,FY23
+2022-07-21,5,4,5,4,5,,Dev,Jonovan An,EMEA,Impact,FY23
+2022-07-21,5,5,5,5,5,"Great course! Great content! Would really have enjoyed this course presented over more days so to not take such a big chunk out of a day. A full week with 2 hours 30 min would have been a bit more manageable. This is knit-picking though, all in all great course. Thank you.",Dev,Jonovan An,EMEA,Impact,FY23
+2022-07-21,5,5,5,5,5,,Dev,Jonovan An,EMEA,Impact,FY23
+2022-07-21,5,4,5,4,3,"These sessions covered a boatload of content which gave me a good idea of capabilities overall, but going through the labs again at my own pace will be required to cement in the knowledge. 
+
+We had a pretty diverse group in the session which makes it hard to pitch it at exactly the right level, I feel like this led some participants to fade into the background a bit as more experienced team members were clearly more vocal and engaged.
+
+Good mix of theoretical and practical in the content. More ""advanced"" labs and use cases as additional extras would definitely be worthwhile to go through in self-paced learning.
+
+I understand this is the developer track, but I would have enjoyed a bit more focus on extracting and analysing data - practical use cases and case studies of analytical challenges and how to solve them in SingleStore would be really useful too. 
+
+Big missing topic for me was Common Table Expressions (CTEs), SubQueries, Temporary tables and analytical functions - how they interact with the Query Optimizer and how they can be leveraged to optimize inefficient queries or change query execution plans.
+
+Some of the labs did touch on topics that were not yet covered or introduced in the content leading up to it, but these were infrequent and not too bothersome; they did leave me needing to click the dreaded ""solution"" button.
+
+As a whole a good experience - unlikely that I would have been able to cover this much content during solo self-paced learning in even double the amount of time.",Dev,Jonovan An,EMEA,Impact,FY23
+2022-07-21,5,5,5,5,5,"Great Course! Great content! Would have liked the course to be spread over a full week so that it did not take such a big chunk out of a day. Also felt like I was losing focus toward the end. But this is knit-picking, all in all a great course. Thank you!",Dev,Jonovan An,EMEA,Impact,FY23
+2022-11-08,5,5,5,5,5,,Admin,Lauren,EMEA,WDC,FY23
+2022-12-08,5,5,5,5,5,Great job with an involved topic. Both instructors were naturals.,Admin,Lauren,EMEA,WDC,FY23
+2022-12-08,5,5,5,5,5,,Admin,Both,EMEA,WDC,FY23
+2022-12-08,5,5,5,5,5,"the training is really great, thank you!",Admin,Both,EMEA,WDC,FY23
+2022-12-08,5,5,5,5,5,,Admin,Both,EMEA,WDC,FY23
+2022-12-08,4,4,4,4,4,Is there a training material that we can download?,Admin,Both,EMEA,WDC,FY23
+2022-12-08,4,2,4,4,3,a little un organized but better than the dev training. the instructors were nice and engaging ,Admin,Both,EMEA,WDC,FY23
+2022-12-08,5,5,5,5,5,,Admin,Both,EMEA,WDC,FY23
+2022-08-15,3,3,4,4,3,Might allocate couple of more hours for Q&A section would be nice. ,Admin,Both,EMEA,WDC,FY23
+2022-10-09,5,4,5,5,5,"I felt that the backup/restore and monitoring slides were mostly geared towards commands rather than strategy and approach. I felt the slides should have more ""content"" in them if that is possible, especially that the SingleStore documentation website in these areas was also lacking and mostly geared towards the how rather than the why.",Admin,Jonovan An,EMEA,Kroger,FY23
+2022-09-15,5,5,1,5,5,too much content being covered. Definitely need some extra time,Dev,Jonovan An,EMEA,Kroger,FY23
+2022-09-15,3,5,4,5,4,,Dev,Jonovan An,EMEA,Kroger,FY23
+2022-09-23,5,5,5,5,5,,Dev,Jonovan An,EMEA,Open Registration,FY23
+2022-09-23,4,5,5,5,5,Everything was great,Dev,Jonovan An,EMEA,Open Registration,FY23
+2022-09-23,5,5,5,4,4,,Dev,Jonovan An,EMEA,Open Registration,FY23
+2022-09-23,5,5,5,5,5,,Dev,Jonovan An,EMEA,Open Registration,FY23
+2022-09-23,5,5,5,5,5,,Dev,Jonovan An,EMEA,Open Registration,FY23
+2022-09-24,5,4,4,4,5,I wish we have more frequency and more time for break. 10 to 15 min per hour of training will be nice.,Dev,Jonovan An,EMEA,Open Registration,FY23
+2022-09-24,4,3,4,4,4,,Dev,Jonovan An,EMEA,Open Registration,FY23
+2022-09-28,4,4,5,5,4,"great training! the training was easy to comprehend, and me having 0 knowledge in SingleStore this was very good. Jonovan was very engaging.",Dev,,EMEA,Open Registration,FY23
+2022-10-21,4,4,4,5,5,No,Admin,Jonovan An,EMEA,Open Registration,FY23
+2022-10-21,5,5,5,4,4,,Admin,Jonovan An,EMEA,Open Registration,FY23
+2022-10-21,5,5,5,5,5,,Admin,Jonovan An,EMEA,Open Registration,FY23
+2022-10-21,5,5,4,4,4,,Admin,Jonovan An,EMEA,Open Registration,FY23
+2022-10-21,3,3,4,3,3,,Admin,Jonovan An,EMEA,Open Registration,FY23
+2022-10-21,5,5,5,5,5,,Admin,Jonovan An,EMEA,Open Registration,FY23
+2022-10-21,4,4,4,3,4,,Admin,Jonovan An,EMEA,Open Registration,FY23
+2022-10-21,4,5,5,5,5,An advanced class would be great for advanced users.,Admin,Jonovan An,EMEA,Open Registration,FY23
+2022-10-21,4,4,5,4,4,please share your slide presentation .ppt or .pdf . Thanks,Admin,Jonovan An,EMEA,Open Registration,FY23
+2022-10-21,5,4,4,5,5,,Admin,Jonovan An,EMEA,Open Registration,FY23
+2022-10-21,5,5,5,5,5,PPT of the material will be good to delivered to participant for guide,Admin,Jonovan An,EMEA,Open Registration,FY23
+2022-01-11,5,5,5,5,5,,Admin,Jonovan An,EMEA,Open Registration,FY23
+2023-03-17,5,5,5,5,5,,Dev,Jonovan An,APAC,P&G,FY24
+2023-03-17,3,4,5,5,4,,Dev,Jonovan An,APAC,P&G,FY24
+2023-03-17,4,5,5,5,5,Better question handling (do not mix forms with chat questions ) ,Dev,Jonovan An,APAC,P&G,FY24
+2023-03-17,5,5,5,5,5,,Dev,Jonovan An,APAC,P&G,FY24
+2023-03-17,5,5,5,5,5,,Dev,Jonovan An,APAC,P&G,FY24
+2023-03-17,3,5,5,5,4,,Dev,Jonovan An,APAC,P&G,FY24
+2023-03-17,5,5,5,5,5,,Dev,Jonovan An,APAC,P&G,FY24
+2023-03-17,5,4,4,5,5,,Dev,Jonovan An,APAC,P&G,FY24
+2023-03-17,4,4,5,5,5,Content of learing should be indexed to know which LAB we suppose  to do ,Dev,Jonovan An,APAC,P&G,FY24
+2023-03-17,4,4,5,4,4,,Dev,Jonovan An,APAC,P&G,FY24
+2023-03-17,3,4,4,4,4,,Dev,Jonovan An,APAC,P&G,FY24
+2023-05-04,4,5,5,5,5,"Great job Jon. I love your energy, your knowledge, and the way you communicate. Thank you.",Dev,Jonovan An,APAC,P&G,FY24
+2023-05-04,5,5,5,5,5,,Dev,Jonovan An,APAC,P&G,FY24
+2023-03-31,5,5,5,5,5,,Admin,Jonovan An,EMEA,CignaEvernorth,FY24
+2023-03-31,3,4,5,4,4,,Admin,Jonovan An,EMEA,CignaEvernorth,FY24
+2023-03-31,5,5,4,4,4,,Admin,Jonovan An,EMEA,CignaEvernorth,FY24
+2023-03-31,4,5,5,5,4,,Admin,Jonovan An,EMEA,CignaEvernorth,FY24
+2023-03-31,4,5,5,5,5,,Admin,Jonovan An,EMEA,CignaEvernorth,FY24
+2023-03-31,5,5,5,5,5,Breaking up this training into 2 days a week and spreading this to multiple weeks will help learn & digest concepts and practice them instead of one big swoop of all in 4 days. Overall the training is useful. ,Admin,Jonovan An,EMEA,CignaEvernorth,FY24
+2023-03-31,5,5,5,5,5,"Jonovan was a fantastic instructor.  He was clear, thorough and extremely knowledgeable in the materials covered.  I love how well the materials were organized.  Copy and pasting directly from the training documents made training smoother and eliminated human typos when submitting commands during labs.  I would definitely recommend Jonovan for future training sessions.",Admin,Jonovan An,EMEA,CignaEvernorth,FY24
+2023-03-31,4,4,5,4,4,"more examples with a scenario/situation would help to understand the purpose of some of the features like reference tables, but overall training is very good  ",Admin,Jonovan An,EMEA,CignaEvernorth,FY24
+2023-03-23,5,4,5,5,5,"Jonovan's training was informative and engaging, but I wished for more hands-on activities.
+",Dev,Jonovan An,EMEA,VDAB,FY24
+2023-03-23,5,4,4,5,4,"Jonovan's training was a good introduction, but I wanted a deeper dive.",Dev,Jonovan An,EMEA,VDAB,FY24
+2023-03-23,4,5,4,4,4,"Jon's friendly demeanor and open to feedback, but the material could be enhanced.",Dev,Jonovan An,EMEA,VDAB,FY24
+2023-03-23,3,4,3,4,3,"The training was a bit slow,rest all is fine ",Dev,Jonovan An,EMEA,VDAB,FY24
+2023-03-23,4,5,5,5,5,The training done by Jon's is great and content is awesome!Thank you.,Dev,Jonovan An,EMEA,VDAB,FY24
+2023-03-23,4,4,4,4,5,Missed the topic on timeseries. So maybe check next time what people prefer: geospatial or timeseries - although geospatial is fun :-),Dev,Jonovan An,EMEA,VDAB,FY24
+2023-03-23,5,4,4,4,4,,Dev,Jonovan An,EMEA,VDAB,FY24
+2023-03-23,4,4,4,4,4,,Dev,Jonovan An,EMEA,VDAB,FY24
+2023-03-23,4,3,4,4,4,A little more time for the labs,Dev,Jonovan An,EMEA,VDAB,FY24
+2023-03-23,3,5,5,5,4,"Very clear explanation and course. What would make it better for me is some more hands-on exercises in the first 4 hours, nothing too complex but just to keep people engaged for the entire 4 hours.",Dev,Jonovan An,EMEA,VDAB,FY24
+2023-03-23,4,4,5,5,4,"Some training material contains some typing mistakes like DELIMETER instead of DELIMITER.
+I found some slides that were still refering to MemSQL so maybe they need an update.
+Further it was a great intro into the product and it will take some time to be able to apply all what has been learned over the last couple of days. But great we will be able to refer to the materials",Dev,Jonovan An,EMEA,VDAB,FY24
+2023-03-23,4,4,3,4,4,"More focus on the labs, less on the knowledge checks. Or knowledge checks after the labs. More feedback on slido questions. A bit of rework on the course material needed: typo for instance in delimeter -> delimiter but overal good overview of all functionalities. Some of the knowledge checks should also be reviewed (e.g. question on rowstore vs columnstore) where the solution is contradictory to official documenation of singlestore",Dev,Jonovan An,EMEA,VDAB,FY24
+2023-03-23,4,4,4,4,4,"we were slightly jumping around in the course, which was sometime a bit hard to follow. But nice course. ",Dev,Jonovan An,EMEA,VDAB,FY24
+2023-03-23,5,5,5,5,5,,Dev,Jonovan An,EMEA,VDAB,FY24
+2023-03-23,2,4,5,4,2,Some parts of the training had to much focus on basic sql things. Most interesting part was how Singlestore works under the hood. Thanks!,Dev,Jonovan An,EMEA,VDAB,FY24
+2023-07-04,5,5,5,5,5,,Dev,Jonovan An,EMEA,CignaEvernorth,FY24
+2023-07-04,3,4,5,4,4,,Dev,Jonovan An,EMEA,CignaEvernorth,FY24
+2023-07-04,4,4,4,4,4,,Dev,Jonovan An,EMEA,CignaEvernorth,FY24
+2023-07-04,4,5,5,5,5,,Dev,Jonovan An,EMEA,CignaEvernorth,FY24
+2023-04-21,5,5,5,5,5,,Admin,Jonovan An,EMEA,Open Registration,FY24
+2023-04-21,3,3,4,4,4,,Admin,Jonovan An,EMEA,Open Registration,FY24
+2023-04-21,4,4,4,4,3,,Admin,Jonovan An,EMEA,Open Registration,FY24
+2023-04-21,5,3,4,5,4,Maybe the labs can be done along with the instructor for those who we don't have much experience. Installing the tools and configuring the clusters was very easy i think because we followed the steps with the instructor.  ,Admin,Jonovan An,EMEA,Open Registration,FY24
+2023-04-21,5,5,4,5,5,N/A,Admin,Jonovan An,EMEA,Open Registration,FY24
+2023-05-25,5,5,5,5,5,,Admin,Rupesh,APAC,TCL,FY24
+2023-05-25,5,4,4,4,4,,Admin,Rupesh,APAC,TCL,FY24
+2023-05-25,3,4,4,5,4,,Admin,Rupesh,APAC,TCL,FY24
+2023-05-25,4,4,3,3,4,"Training is good , and 4 hours a day and 4 days a week not a sufficient duration for training",Admin,Rupesh,APAC,TCL,FY24
+2023-01-06,4,3,4,3,4,,Dev,Meena,APAC,TCL,FY24
+2023-01-06,5,5,5,5,5,,Dev,Meena,APAC,TCL,FY24
+2023-01-06,5,5,5,5,5,,Dev,Meena,APAC,TCL,FY24
+2023-01-06,4,3,3,4,4,Overall it was a informative training ,Dev,Meena,APAC,TCL,FY24
+2023-01-06,4,4,5,5,5,"Could add more pictorial representations for few topics, this would help quicker and persistent understanding of topics.",Dev,Meena,APAC,TCL,FY24
+2023-01-06,5,5,5,5,5,,Dev,Meena,APAC,TCL,FY24
+2023-01-06,5,3,5,5,4,Everything was Good,Dev,Meena,APAC,TCL,FY24
